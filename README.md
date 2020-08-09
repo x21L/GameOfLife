@@ -16,9 +16,9 @@ You will not have any restrictions, as long as you implement the rules above. Yo
 * Some nice visualizations can be found [here.](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 ## Some Tips
-If you want to initialize the field randomly you can use a "coin flip".
+If you want to initialize the field randomly you can use a coin flip.
 
-The following method generates two random numbers 0 or 1.
+The following snipet generates two random numbers 0 or 1.
 
 ~~~java
 int coin = new Random().nextInt(2);
