@@ -14,7 +14,7 @@ You will not have any restrictions, as long as you implement the rules above. Yo
 
 * Check out the rules [here](https://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens).
 * Some nice visualizations can be found [here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
-
+>**NOTE:** You do not need to visualize it like this. Simple `System.out.println()`s are sufficient.
 ## Some Tips
 If you want to initialize the field randomly you can use a coin flip.
 
